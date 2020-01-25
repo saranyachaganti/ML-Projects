@@ -1,10 +1,8 @@
-### <ins>text</ins>
-
 ## The projects in this repository are related to machine learning.
 
 ### List of Projects : 
 
-#### 1) Text based classification
+#### <ins> 1) Text based classification </ins>
 
 ##### Dataset : IRIS Dataset (UCI Machine learning repository)
 ##### Agenda : Classify the class of the type of flower given the measurements

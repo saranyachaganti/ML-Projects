@@ -2,13 +2,13 @@
 
 ### List of Projects : 
 
-####  1) <ins> Text based classification </ins>
+###  1) <ins> Text based classification </ins>
 
 ##### Dataset : IRIS Dataset (UCI Machine learning repository)
 ##### Agenda : Classify the class of the type of flower given the measurements
 ##### This ML Porject is a multivariate dataset based on types of IRIS flower. When we give few parameters as inputs the model predicts on which type of flower it belongs to either Iris setosa, Iris virginica or Iris versicolor
 
-#### 2)<ins> Load Approval - Loan Approval project </ins>
+### 2)<ins> Load Approval - Loan Approval project </ins>
 
 ##### Dataset : Loan prediction ( Kaggle)
 ##### Agenda : To predict the product a customer is likely to buy

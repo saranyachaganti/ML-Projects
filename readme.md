@@ -1,6 +1,6 @@
-#The projects in thjects in this repository are related to machine learning.
+# The projects in thjects in this repository are related to machine learning.
 
-##List of Projects : 
+## List of Projects : 
 
 ### 1) Text based classification
 ### 2) Load Approval

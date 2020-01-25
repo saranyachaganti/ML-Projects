@@ -1,10 +1,7 @@
-<u>some text</u>
-
-
 ## The projects in this repository are related to machine learning.
 
 ### List of Projects : 
-### <u>some text</u>
+
 #### 1) Text based classification
 
 ##### Dataset : IRIS Dataset (UCI Machine learning repository)

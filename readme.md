@@ -1,4 +1,4 @@
-<span style="text-decoration:underline">this</span>
+<u>some text</u>
 
 
 ## The projects in this repository are related to machine learning.

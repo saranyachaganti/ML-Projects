@@ -1,4 +1,4 @@
-## The projects in this repository are related to machine learning.
+## The projects in this repository are done during my 100 days of machine learning challenge. 
 
 ### List of Projects : 
 

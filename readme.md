@@ -42,4 +42,4 @@
 ##### Code : https://github.com/saranyachaganti/ML-Projects/tree/master/Movie-Recommendation-Engine
 ##### Dataset : My github
 ##### Agenda : Recommend 5 movies based on the input you give
-##### Description : A movie recomendation engine is like your netflix / amazon which constantly reminds you what you like and what you're going to like based on your watch list . In this project you give a movie of your choice and it reccomends 5 other movies which are related to that movie
+##### Description : A movie recomendation engine is like your netflix / amazon which constantly reminds you what you like and what you're going to like based on your watch list . In this project you give a movie of your choice and it reccomends 5 other movies which are related to that movie.

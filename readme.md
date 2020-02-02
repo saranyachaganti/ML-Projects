@@ -37,7 +37,7 @@
 ##### Agenda : This project classifies the movie review as a good review or a bad one
 ##### Description : The project lso deals with a little bit of NLP domain through which we do the data preprocesssing and tune the data according to our needs. Also extended the project where you personally can give any movie review on your own and it gives out the classified output i.e: Good or Bad
 
-### 6) <ins> Recomendation Engine </ins>
+### 6) <ins> Recommendation Engine </ins>
 
 ##### Code : https://github.com/saranyachaganti/ML-Projects/tree/master/Movie-Recommendation-Engine
 ##### Dataset : My github
